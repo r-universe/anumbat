@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "grf"]
+	path = grf
+	url = https://github.com/cran/grf
+[submodule "maq"]
+	path = maq
+	url = https://github.com/cran/maq
+[submodule "policytree"]
+	path = policytree
+	url = https://github.com/cran/policytree
